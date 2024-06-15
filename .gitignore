@@ -19,6 +19,7 @@ _build
 
 dump.rdb
 
+node_modules
 .tmp
 .sass-cache
 npm-debug.log
