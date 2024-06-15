@@ -9,7 +9,6 @@ venv/
 coverage
 .coverage
 coverage.xml
-client/dist
 .DS_Store
 .#*
 \#*#
@@ -20,7 +19,6 @@ _build
 
 dump.rdb
 
-node_modules
 .tmp
 .sass-cache
 npm-debug.log
